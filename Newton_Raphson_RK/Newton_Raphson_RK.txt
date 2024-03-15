@@ -1,0 +1,86 @@
+Root Finding Method - Newton Raphson Method
+Single-Step Method - RK 4th Order Method
+
+Shooting Method Calculations
+
+All the Iterations for finding Alpha
+
+Iteration - 0
+y(2) = 1.16000424
+Error = 0.1600042399999999
+Alpha = 1.59788724
+
+Iteration - 1
+y(2) = 0.89903211
+Error = -0.10096788999999995
+Alpha = 1.3422185
+
+Iteration - 2
+y(2) = 1.05531823
+Error = 0.05531822999999991
+Alpha = 1.50355381
+
+Iteration - 3
+y(2) = 0.966707
+Error = -0.03329300000000002
+Alpha = 1.41516151
+
+Iteration - 4
+y(2) = 1.01906945
+Error = 0.019069449999999932
+Alpha = 1.46835997
+
+Iteration - 5
+y(2) = 0.98874061
+Error = -0.01125938999999998
+Alpha = 1.43788914
+
+Iteration - 6
+y(2) = 1.00653476
+Error = 0.006534760000000084
+Alpha = 1.45588038
+
+Iteration - 7
+y(2) = 0.9961684
+Error = -0.003831600000000046
+Alpha = 1.44543857
+
+Iteration - 8
+y(2) = 1.00223331
+Error = 0.002233310000000044
+Alpha = 1.45156103
+
+Iteration - 9
+y(2) = 0.99869375
+Error = -0.0013062499999999533
+Alpha = 1.44799245
+
+Iteration - 10
+y(2) = 1.00076248
+Error = 0.0007624799999998988
+Alpha = 1.45007969
+
+Iteration - 11
+y(2) = 0.99955442
+Error = -0.00044557999999994546
+Alpha = 1.44886134
+
+Iteration - 12
+y(2) = 1.00026019
+Error = 0.0002601900000001045
+Alpha = 1.44957332
+
+Iteration - 13
+y(2) = 0.99984795
+Error = -0.00015204999999995916
+Alpha = 1.44915757
+
+Iteration - 14
+y(2) = 1.00008889
+Error = 8.889000000000813e-05
+Alpha = 1.44940053
+
+Final Solution
+y(2) = 1.00008889
+Error = 8.889000000000813e-05
+Alpha = 1.44940053
