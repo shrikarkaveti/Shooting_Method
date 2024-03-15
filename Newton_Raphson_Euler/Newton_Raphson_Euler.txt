@@ -1,0 +1,26 @@
+Root Finding Method - Newton Raphson Method
+Single-Step Method - Euler's Method
+
+Shooting Method Calculations
+
+All the Iterations for finding Alpha
+
+Iteration - 0
+y(2) = 1.06910445
+Error = 0.06910444999999998
+Alpha = 1.50800818
+
+Iteration - 1
+y(2) = 1.00235251
+Error = 0.002352509999999919
+Alpha = 1.4432162
+
+Iteration - 2
+y(2) = 1.00000282
+Error = 2.8199999999589664e-06
+Alpha = 1.44085437
+
+Final Solution
+y(2) = 1.00000282
+Error = 2.8199999999589664e-06
+Alpha = 1.44085437
