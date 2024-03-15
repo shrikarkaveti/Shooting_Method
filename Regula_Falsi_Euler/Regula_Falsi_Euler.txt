@@ -1,0 +1,31 @@
+Root Finding Method - Regula Falsi Method
+Single-Step Method - Euler's Method
+
+Shooting Method Calculations
+
+All the Iterations for finding Alpha
+
+Iteration - 0
+y(2) = 1.19342783
+Error = 0.19342783000000008
+Alpha = 1.61715727
+
+Iteration - 1
+y(2) = 1.00567643
+Error = 0.005676430000000066
+Alpha = 1.44654773
+
+Iteration - 2
+y(2) = 1.00017087
+Error = 0.00017087000000004515
+Alpha = 1.44102349
+
+Iteration - 3
+y(2) = 1.00000513
+Error = 5.129999999908819e-06
+Alpha = 1.44085673
+
+Final Solution
+y(2) = 1.00000513
+Error = 5.129999999908819e-06
+Alpha = 1.44085673
