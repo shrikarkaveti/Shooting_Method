@@ -1,0 +1,31 @@
+Root Finding Method - Regula Falsi Method
+Single-Step Method - RK 4th Order Method
+
+Shooting Method Calculations
+
+All the Iterations for finding Alpha
+
+Iteration - 0
+y(2) = 1.15178772
+Error = 0.15178771999999996
+Alpha = 1.59086674
+
+Iteration - 1
+y(2) = 1.00387047
+Error = 0.0038704700000000702
+Alpha = 1.45320729
+
+Iteration - 2
+y(2) = 1.00010058
+Error = 0.00010058000000001677
+Alpha = 1.4494124
+
+Iteration - 3
+y(2) = 1.00000266
+Error = 2.6600000000431834e-06
+Alpha = 1.44931359
+
+Final Solution
+y(2) = 1.00000266
+Error = 2.6600000000431834e-06
+Alpha = 1.44931359
