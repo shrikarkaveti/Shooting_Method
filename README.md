@@ -1,3 +1,5 @@
+# Shooting Methods: Newton-Raphson & Regula Falsi with Euler & RK
+
 This repository provides implementations of the Shooting Method, a numerical technique used to solve Boundary Value Problems (BVPs) by transforming them into Initial Value Problems (IVPs). It explores the synergy between root-finding algorithms and IVP solvers.
 
 Specifically, this repository includes implementations combining:
